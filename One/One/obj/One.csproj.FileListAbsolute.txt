@@ -1,0 +1,6 @@
+D:\Temp\One\One\bin\Debug\One.dll
+D:\Temp\One\One\bin\Debug\One.pdb
+D:\Temp\One\One\obj\Debug\ResolveAssemblyReference.cache
+D:\Temp\One\One\obj\Debug\One.dll
+D:\Temp\One\One\obj\Debug\One.pdb
+D:\Temp\One\One\bin\Debug\One.tlb
